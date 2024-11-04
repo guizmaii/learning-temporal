@@ -107,3 +107,6 @@ project/metals.sbt
 
 .idea/
 .bsp/
+
+data/
+!data/.gitkeep
